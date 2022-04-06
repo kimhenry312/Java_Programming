@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"song_lyrics","c":"SongLyrics","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"song_lyrics","c":"SongLyrics","l":"SongLyrics()","u":"%3Cinit%3E()"}];updateSearchResults();
